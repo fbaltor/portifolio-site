@@ -1,0 +1,25 @@
+{
+  "name": "felipebaltor",
+  "version": "1.0.0",
+  "description": "single-page portifolio website",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbaltor/portifolio-page.git"
+  },
+  "author": "Felipe Baltor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbaltor/portifolio-page/issues"
+  },
+  "homepage": "https://github.com/fbaltor/portifolio-page#readme",
+  "engines": {
+    "node": "13.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
